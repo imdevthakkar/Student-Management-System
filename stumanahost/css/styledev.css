@@ -1,0 +1,41 @@
+body{
+	background-image: url('../img/im1.jpeg');
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+}
+.al a{
+	text-decoration: none;
+	text-transform: uppercase;
+	color: green;
+	font-size: 20px;
+}
+.tab{
+	background-color: white;
+	border: 1px solid;
+	border-color: green;
+	width: 30%;
+
+}
+.heading{
+	text-align: center;
+	font-size: 30px; 
+	width: 100%;
+}
+
+
+@media screen and (max-width: 995px)
+ {
+.heading {
+  	font-size: 20px;
+}
+.tab{
+	width: 10%;
+	font-size: 15px;
+}
+.tab td{
+	text-align: inline;
+}
+.al a{
+	font-size: 15px;
+}

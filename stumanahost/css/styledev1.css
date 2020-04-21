@@ -1,0 +1,17 @@
+body{
+ 	background-image: url('../img/im1.jpeg');
+ 	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.abc{
+
+	background-color: white;
+	border: 1px solid;
+	
+}
+.abc a{
+		text-decoration: none;
+		color: green;
+		font-size: 25px;
+}
