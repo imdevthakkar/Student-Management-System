@@ -11,7 +11,7 @@ if (isset($_SESSION['uid']))
 <html>
 <head>
 	<title>Admin Login</title>
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/styledev1.css">
 </head>
 <body>
 
